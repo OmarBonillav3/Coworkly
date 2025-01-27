@@ -8,7 +8,6 @@ Coworkly es una aplicación móvil diseñada para los nómadas digitales que bus
 - Puntuaciones y comentarios: Los usuarios pueden calificar la calidad del internet, la comodidad y otros factores importantes para elegir un espacio.
 - Colaboración comunitaria: Agrega nuevos lugares que encuentres durante tus viajes para ayudar a otros nómadas a descubrirlos.
 
-```bash
-# Nota: 
-Coworkly se seguirá actualizando con nuevas funcionalidades orientadas a un uso profesional. Sin embargo, estas actualizaciones no estarán disponibles en el repositorio de GitHub.
-```
+
+> [!NOTE]
+> Coworkly se seguirá actualizando con nuevas funcionalidades orientadas a un uso profesional. Sin embargo, estas actualizaciones no estarán disponibles en el repositorio de GitHub.

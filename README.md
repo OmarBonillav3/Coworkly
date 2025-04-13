@@ -11,3 +11,38 @@ Coworkly es una aplicación móvil diseñada para los nómadas digitales que bus
 
 > [!NOTE]
 > Coworkly seguirá actualizando con nuevas funcionalidades orientadas a un uso profesional. Sin embargo, estas actualizaciones no estarán disponibles en el repositorio de GitHub.
+
+## Instalacion y Ejecucion de proyecto
+
+```bash
+# 1. Descargar Node:
+https://nodejs.org/
+
+# 1.5 Verifica que se instalo correctamente:
+node -v
+```
+
+```bash
+# 2. Clonar el repositorio:
+git clone https://github.com/OmarBonillav3/Coworkly.git
+```
+
+```bash
+# 3. Dirigete a la carpeta raiz
+cd Coworkly
+```
+```bash
+# 4. Instalas las dependencias de las aplicacion:
+npm install
+
+# 4.1 Ejecuta este comando para ver errores:
+npx expo-doctor
+
+# 4.2 Ejecuta este comando para ver errores:
+npx expo install --check 
+```
+
+```bash
+# 5. Inicia el proyecto con:
+npx expo start
+```

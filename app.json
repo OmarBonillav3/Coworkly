@@ -4,26 +4,26 @@
     "slug": "Coworkly",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/img/iconCWK.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/img/LogoCWK.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#16404E"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/img/iconCWK.png",
+        "backgroundColor": "#16404E"
       },
       "package": "com.omarbonilla.Coworkly"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/img/LogoCWK.png"
     },
     "extra": {
       "eas": {
